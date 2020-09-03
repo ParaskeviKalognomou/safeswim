@@ -6,9 +6,7 @@ body {
     text-align: center;
   }
   
-  .python {
-      color: cornflowerblue;
-  }
+
 
   .card1 {
     padding: 3rem 1.5rem;
@@ -21,4 +19,29 @@ body {
 
 .signup {
   text-align: center;
+}
+
+.water21 {
+  text-align: center;
+}
+
+.logo {
+  text-align: center;
+}
+
+.col-sm300 {
+  text-align: center;
+}
+
+.logo2 {
+  text-align: center;
+  background-position: top;
+}
+
+.bbb {
+  text-align: center;
+}
+
+.button {
+  color: aquamarine;
 }
